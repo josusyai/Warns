@@ -1,0 +1,17 @@
+#WARNS CONFIG MESSAGES !
+
+#Main Form
+Title-Form: "§cWarns Form"
+Content-Form: "§fAdd and Remove Warns for Players"
+Button1: "§rAdd Warn"
+Button2: "§rRemove Warn"
+
+#Add Warn Form
+Title-AddWarn: "§cWarns Form"
+Label-AddWarn: "§fAdd Warn for Player"
+#Remove Warn Form
+Title-RemoveWarn: "§cWarns Form"
+Label-RemoveWarn: "§fRemove to Warn for Player"
+
+#messages for players
+# [SOON]

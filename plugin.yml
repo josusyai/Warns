@@ -1,0 +1,28 @@
+name: SimpleWarns
+main: josus\Warn
+api: 5.0.0
+version: 1.0.0
+description: Plugin to warns for Pocketmine.
+website: https://github.com/josusyai
+author: Josusss
+
+commands:
+  warn:
+    description: "open menu for warns."
+    usage: "/warn <player>"
+    permission: warns.cmd
+  warnadd:
+    description: "add warn"
+    usage: "/warnadd"
+    permission: warns.cmd
+  warnremove:
+    description: "remove to warn"
+    usage: "/warnremove"
+    permission: warns.cmd
+
+
+
+permissions:
+  warns.cmd:
+    description: "you do not have permissions"
+    default: op
